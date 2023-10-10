@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**songyaochen/songyaochen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🙋‍♂️ **About Me**
 
-Here are some ideas to get you started:
+I'm Qunzhang, a passionate developer with expertise in control systems and path planning. My coding adventures primarily revolve around C++, Python, and MATLAB.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tech Stack**
+
+- **Languages**: C++ | Python | MATLAB
+- **Control Systems**: PID | LQR/LQI/LQR+Feedforward control | MPC/NMPC
+- **Path Planning**: A* | RRT*
+- **Filtering**: EKF | CKF | UKF | PF
+- **Machine Learning**: TensorFlow | PyTorch
+
+🔗 **Connect with Me**
+
+📧 Email me at [qunz@chalmers.se](mailto:qunz@chalmers.se)
