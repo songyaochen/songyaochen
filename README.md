@@ -15,6 +15,6 @@ I'm **Yaochen Song**, a passionate developer with expertise in control systems a
 ---
 🔗 **Connect with Me**
 
-📧 Email me at [yaochen@chalmers.se](mailto:yaochen@chalmers.se)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue&color=blue)](https://www.linkedin.com/in/yaochen-song0217)
+-📧 Email me at [yaochen@chalmers.se](mailto:yaochen@chalmers.se)
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue&color=blue)](https://www.linkedin.com/in/yaochen-song0217)
 
