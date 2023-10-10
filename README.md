@@ -7,7 +7,7 @@ I'm **Yaochen Song**, a passionate developer with expertise in control systems a
 ---
 🔧 **Tech Stack**
 
-- **Languages**: C++ | Python | MATLAB
+- **Languages**: <span style="background-color: #f0f0f0;">C++</span> | <span style="background-color: #f0f0f0;">Python</span> | <span style="background-color: #f0f0f0;">MATLAB</span>
 - **Control Systems**: PID | LQR/LQI/LQR+Feedforward control | MPC/NMPC
 - **Path Planning**: A* | RRT*
 - **Filtering**: EKF | CKF | UKF | PF
@@ -16,5 +16,6 @@ I'm **Yaochen Song**, a passionate developer with expertise in control systems a
 🔗 **Connect with Me**
 
 📧 Email me at [yaochen@chalmers.se](mailto:yaochen@chalmers.se)
+
 [![LinkedIn](https://example.com/linkedin-icon.png)](https://www.linkedin.com/in/yaochen-song0217)
 
