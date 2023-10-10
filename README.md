@@ -7,7 +7,7 @@ I'm **Yaochen Song**, a passionate developer with expertise in control systems a
 ---
 🔧 **Tech Stack**
 
-- **Languages**: <span style="background-color: #f0f0f0;">C++</span> | <span style="background-color: #f0f0f0;">Python</span> | <span style="background-color: #f0f0f0;">MATLAB</span>
+- **Languages**: ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff) | ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=ffffff)
 - **Control Systems**: PID | LQR/LQI/LQR+Feedforward control | MPC/NMPC
 - **Path Planning**: A* | RRT*
 - **Filtering**: EKF | CKF | UKF | PF
