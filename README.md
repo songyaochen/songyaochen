@@ -16,5 +16,5 @@ I'm **Yaochen Song**, a passionate developer with expertise in control systems a
 🔗 **Connect with Me**
 
 📧 Email me at [yaochen@chalmers.se](mailto:yaochen@chalmers.se)
-🔗 [LinkedIn](www.linkedin.com/in/yaochen
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/yaochen-song0217)
 
