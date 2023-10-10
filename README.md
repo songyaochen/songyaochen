@@ -2,7 +2,7 @@
 
 🙋‍♂️ **About Me**
 
-I'm Qunzhang, a passionate developer with expertise in control systems and path planning. My coding adventures primarily revolve around C++, Python, and MATLAB.
+I'm Yaochen Song, a passionate developer with expertise in control systems and path planning. My coding adventures primarily revolve around C++, Python, and MATLAB.
 
 🔧 **Tech Stack**
 
@@ -14,4 +14,4 @@ I'm Qunzhang, a passionate developer with expertise in control systems and path 
 
 🔗 **Connect with Me**
 
-📧 Email me at [qunz@chalmers.se](mailto:qunz@chalmers.se)
+📧 Email me at [yaochen@chalmers.se](mailto:qunz@chalmers.se)
